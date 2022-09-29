@@ -1,2 +1,3 @@
 # Basics
-This is mainly used for testing.
+Password Generator that simply generates lower-case and capital letters as well as symbols and numbers.
+This small project will use javascript, html, and css.
